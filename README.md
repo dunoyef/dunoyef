@@ -1,4 +1,4 @@
-![python](https://user-images.githubusercontent.com/103782068/173196009-8f42fb7b-9f3e-4641-bdac-0482fff68143.gif)
+
 <!--
 ### Hi there 👋
 
