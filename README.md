@@ -1,6 +1,8 @@
+![python](https://user-images.githubusercontent.com/103782068/173196009-8f42fb7b-9f3e-4641-bdac-0482fff68143.gif)
+<!--
 ### Hi there 👋
 
-<!--
+
 **dunoyef/dunoyef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
